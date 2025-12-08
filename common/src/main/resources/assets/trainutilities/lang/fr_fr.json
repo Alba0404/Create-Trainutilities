@@ -274,8 +274,8 @@
   "gui.trainutilities.tooltip.nyc_subway_sound": "Son de porte du métro de NYC",
   "gui.trainutilities.tooltip.modern_ice_sound": "Son de porte DB ICE moderne",
   "gui.trainutilities.tooltip.no_sound": "Pas de son",
-  "gui.trainutilities.tooltip.class_350": "Son de porte Class 350",
-  "gui.trainutilities.tooltip.class_390": "Son de porte Class 390",
-  "gui.trainutilities.tooltip.class_450": "Son de porte Class 450",
-  "gui.trainutilities.tooltip.1996_stock": "Son de porte 1996 Stock"
+  "gui.trainutilities.tooltip.class_350_sound": "Son de porte Class 350",
+  "gui.trainutilities.tooltip.class_390_sound": "Son de porte Class 390",
+  "gui.trainutilities.tooltip.class_450_sound": "Son de porte Class 450",
+  "gui.trainutilities.tooltip.1996_stock_sound": "Son de porte 1996 Stock"
 }
